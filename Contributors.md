@@ -3,6 +3,7 @@
 - Mike
 - Dax Patel (https://github.com/letapxad)
 - Mark Foster (https://github.com/markfoster314)
+- Abhinash Giri (https://github.com/abhinashgiri)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -34,7 +35,7 @@
 - Andrew O'Brien (https://github.com/alo9507)
 - Srikanth Kashyap Pulipaka (https://github.com/srikanthpulipaka)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
-- James Myers 
+- James Myers
 - DuongDao daokiem (https://github.com/duongkstn)
 - Alireza Akhoundi
 - Paul Dill (https://github.com/Dillweed5446)
